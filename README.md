@@ -85,7 +85,3 @@ export default AdvancedFetchComponent;
 # API
 
 `useFetcher(url, options, callback)`: Fetch data from the given URL. Optionally process the data with a callback.
-
-# Credits
-
-Zeeshan Haider Shaheen

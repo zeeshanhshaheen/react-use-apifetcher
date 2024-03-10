@@ -1,13 +1,24 @@
 {
   "name": "react-use-apifetcher",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
+  "homepage": "https://github.com/zeeshanhshaheen/react-use-apifetcher",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeeshanhshaheen/react-use-apifetcher"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "react apifetcher",
+    "react hooks",
+    "react use apifetcher",
+    "react use api fetch",
+    "react api fetcher npm"
+  ],
+  "author": "Zeeshan haider Shaheen <zeeshanhshaheen@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0"
